@@ -2,6 +2,9 @@
 
 Aplikasi pengelolaan tabungan warga berbasis VB.NET dan MySQL.
 
+## Tujuan
+Sistem ini dikembangkan untuk membantu pengelolaan tabungan warga secara terstruktur, mulai dari pencatatan transaksi bulanan hingga rekapitulasi tabungan tahunan.
+
 ## Fitur
 
 - Pencatatan tabungan warga
@@ -19,6 +22,13 @@ Aplikasi pengelolaan tabungan warga berbasis VB.NET dan MySQL.
 - MySQL
 - SQL
 
+## Yang Saya Pelajari
+- Perancangan dan pengelolaan database
+- Penggunaan SQL untuk pengolahan data
+- Integrasi aplikasi dengan database MySQL
+- Perancangan alur sistem berdasarkan kebutuhan pengguna
+- Pembuatan laporan berdasarkan data transaksi
+  
 ## Konfigurasi Database
 
 Aplikasi menggunakan MySQL sebagai database.
