@@ -34,20 +34,26 @@ CREATE TABLE TabunganThn2026 (
 );
 
 INSERT INTO TabunganThn2026 (No, Nama) VALUES
-('R01', 'Ibu eva'),
-('R02', 'Ibu Lina'),
-('R03', 'Ibu Yuni'),
-('R04', 'Ibu Ika'),
-('R05', 'Ibu Ina'),
-('R06', 'Ibu Hasna'),
-('R07', 'Ibu Ria '),
-('R08', 'Ibu Rita '),
-('R09', 'Ibu Aliya'),
-('R10', 'Ibu Dewi'),
-('R11', 'Ibu Anita'),
-('R12', 'Ibu Ismi'),
-('R13', 'Ibu Alina'),
-('R14', 'Ibu Erika');
+('R01', 'Ibu Etik Suprawati'),
+('R02', 'Ibu Indah'),
+('R03', 'Ibu Yanuarita Riana D'),
+('R04', 'Ibu Sutikha'),
+('R05', 'Ibu inayah'),
+('R06', 'Ibu Nurhasanah'),
+('R07', 'Ibu Ria Susanti'),
+('R08', 'Ibu Rita Mastuti'),
+('R09', 'Ibu RM Manurung'),
+('R10', 'Ibu Desnita'),
+('R11', 'Ibu Supriyanti'),
+('R12', 'Ibu Isyaroh'),
+('R13', 'Ibu Dauri'),
+('R14', 'Ibu Turini'),
+('R15', 'Ibu Vikra'),
+('R16', 'Ibu Tiarama Ida'),
+('R17', 'Ibu Hellen'),
+('R18', 'Ibu HJ. Winerti'),
+('R19', 'Ibu Nadia'),
+('R20', 'Ibu Ikah');
 
 CREATE TABLE Tanggal2026 (
     ID INT PRIMARY KEY AUTO_INCREMENT,
